@@ -1,1 +1,1 @@
-export const CONTRACT_ADDRESS = "your-smart-contract-deployed-address";
+export const CONTRACT_ADDRESS = "0xb112966d4265125bc52d59ef7579900a2f20a1c0";
